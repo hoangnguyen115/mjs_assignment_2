@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "mailgun-js": "0.5"
+    "mailgun-js": "0.5",
+    "stripe": "^6.4.0"
   }
 }
